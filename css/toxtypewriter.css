@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Tox Typewriter';
+    src: url('ToxTypewriter.eot');
+    src: url('ToxTypewriter.eot?#iefix') format('embedded-opentype'),
+        url('ToxTypewriter.woff2') format('woff2'),
+        url('ToxTypewriter.woff') format('woff'),
+        url('ToxTypewriter.ttf') format('truetype'),
+        url('ToxTypewriter.svg#ToxTypewriter') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
